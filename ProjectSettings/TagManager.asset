@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - UndoMovePowerupCount
+  - Bust
+  - 100
+  - 200
   layers:
   - Default
   - TransparentFX
